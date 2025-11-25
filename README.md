@@ -1,1 +1,3 @@
-# Eduguard-Ai
+# EduGuard Project
+
+Upload this to GitHub.
